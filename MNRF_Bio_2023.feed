@@ -107,14 +107,14 @@ SpecSourceLevel=7
 SpecSourceParam=1
 
 [LabelPrint2]
-LeftMargin=150
+LeftMargin=105
 RightMargin=0
-TopMargin=30
+TopMargin=50
 BottomMargin=0
-RowMargin=100
+RowMargin=0
 ColumnMargin=10
 GridOn=1
-FontSize=8
+FontSize=9
 FontName=Arial
 
 [InputSourceMacros]
